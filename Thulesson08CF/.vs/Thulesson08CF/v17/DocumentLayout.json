@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\",
+  "WorkspaceRootPath": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\controllers\\thucategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\controllers\\thucategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Controllers\\ThuCategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Controllers\\ThuCategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\ThuCategory\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Views\\ThuCategory\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\thulesson08cf\\models\\thucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\models\\thucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\views\\thucategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\views\\thucategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\thulesson08cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBookStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Models\\ThuBookStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\thulesson08cf\\models\\thubook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\models\\thubook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Models\\ThuBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\thulesson08cf\\models\\thubookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\models\\thubookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Models\\ThuCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|c:\\users\\gagibyte\\source\\repos\\thulesson08cf\\thulesson08cf\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92AF26E8-672B-4838-A3D8-D42BD32ED57D}|Thulesson08CF\\Thulesson08CF.csproj|solutionrelative:thulesson08cf\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Thulesson08CF\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,63 +62,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\ThuCategory\\Index.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\ThuCategory\\Index.cshtml",
               "RelativeDocumentMoniker": "Thulesson08CF\\Views\\ThuCategory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\ThuCategory\\Index.cshtml",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\ThuCategory\\Index.cshtml",
               "RelativeToolTip": "Thulesson08CF\\Views\\ThuCategory\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T01:20:14.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T01:20:14.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Thulesson08CF\\Global.asax.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Global.asax.cs",
+              "RelativeToolTip": "Thulesson08CF\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:35:41.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Thulesson08CF\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Global.asax.cs",
-              "RelativeToolTip": "Thulesson08CF\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:35:41.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Thulesson08CF\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Thulesson08CF\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T18:14:01.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T18:14:01.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Thulesson08CF\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Thulesson08CF\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T18:07:30.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T18:07:30.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ThuCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Controllers\\ThuCategoryController.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Controllers\\ThuCategoryController.cs",
               "RelativeDocumentMoniker": "Thulesson08CF\\Controllers\\ThuCategoryController.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Controllers\\ThuCategoryController.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Controllers\\ThuCategoryController.cs",
               "RelativeToolTip": "Thulesson08CF\\Controllers\\ThuCategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,94 +123,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Thulesson08CF\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Thulesson08CF\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T17:39:26.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T17:39:26.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Thulesson08CF\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Thulesson08CF\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-16T17:37:39.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T17:37:39.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Web.config",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Web.config",
               "RelativeDocumentMoniker": "Thulesson08CF\\Web.config",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Web.config",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Web.config",
               "RelativeToolTip": "Thulesson08CF\\Web.config",
               "ViewState": "AQIAADEAAAAAAAAAAAAAAEUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-10T14:27:46.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T14:27:46.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "ThuBookStore.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBookStore.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBookStore.cs",
               "RelativeDocumentMoniker": "Thulesson08CF\\Models\\ThuBookStore.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBookStore.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBookStore.cs",
               "RelativeToolTip": "Thulesson08CF\\Models\\ThuBookStore.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:19:48.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T03:19:48.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ThuBook.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBook.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBook.cs",
               "RelativeDocumentMoniker": "Thulesson08CF\\Models\\ThuBook.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBook.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuBook.cs",
               "RelativeToolTip": "Thulesson08CF\\Models\\ThuBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:02:01.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T03:02:01.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ThuCategory.cs",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Models\\ThuCategory.cs",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuCategory.cs",
               "RelativeDocumentMoniker": "Thulesson08CF\\Models\\ThuCategory.cs",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Models\\ThuCategory.cs",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Models\\ThuCategory.cs",
               "RelativeToolTip": "Thulesson08CF\\Models\\ThuCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T02:59:38.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T02:59:38.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Thulesson08CF\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\GAGIBYTE\\source\\repos\\Thulesson08CF\\Thulesson08CF\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Thuthu\\LThu_netasp\\Thulesson08CF\\Thulesson08CF\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Thulesson08CF\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T02:53:43.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T02:53:43.051Z"
             }
           ]
         }
