@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thuthu\\ThuBaiKiemTraGk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|d:\\thuthu\\thubaikiemtragk\\thubaikiemtragk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|d:\\thuthu\\thubaikiemtragk\\thubaikiemtragk\\models\\thumodels.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\models\\thumodels.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|D:\\Thuthu\\ThuBaiKiemTraGk\\thubaikiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|d:\\thuthu\\thubaikiemtragk\\thubaikiemtragk\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|d:\\thuthu\\thubaikiemtragk\\thubaikiemtragk\\models\\thumodels.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\models\\thumodels.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|d:\\thuthu\\thubaikiemtragk\\thubaikiemtragk\\models\\thumodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\models\\thumodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|D:\\Thuthu\\ThuBaiKiemTraGk\\thubaikiemtragk\\models\\thumodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\models\\thumodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|D:\\Thuthu\\ThuBaiKiemTraGk\\thubaikiemtragk\\models\\thumodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\models\\thumodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|D:\\Thuthu\\ThuBaiKiemTraGk\\thubaikiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|D:\\Thuthu\\ThuBaiKiemTraGk\\thubaikiemtragk\\views\\shared\\_thulayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEDE151B-B4DE-4D7D-BA79-D67579D7E4E6}|ThuBaiKiemTraGk\\ThuBaiKiemTraGk.csproj|solutionrelative:thubaikiemtragk\\views\\shared\\_thulayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:27:09.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThuModels.tt",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.tt",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Models\\ThuModels.tt",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.tt",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Models\\ThuModels.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T17:26:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T17:26:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThuModels.Designer.cs",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.Designer.cs",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Models\\ThuModels.Designer.cs",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.Designer.cs",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Models\\ThuModels.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:26:26.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThuModels.cs",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.cs",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Models\\ThuModels.cs",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.cs",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Models\\ThuModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:53:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThuModels.Context.cs",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.Context.cs",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Models\\ThuModels.Context.cs",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.Context.cs",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Models\\ThuModels.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:53:08.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThuModels.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.edmx",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Models\\ThuModels.edmx",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Models\\ThuModels.edmx [Diagram1]",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Models\\ThuModels.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-17T04:51:07.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T03:10:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T03:09:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ThuLayout.cshtml",
+              "DocumentMoniker": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\Shared\\_ThuLayout.cshtml",
+              "RelativeDocumentMoniker": "ThuBaiKiemTraGk\\Views\\Shared\\_ThuLayout.cshtml",
+              "ToolTip": "D:\\Thuthu\\ThuBaiKiemTraGk\\ThuBaiKiemTraGk\\Views\\Shared\\_ThuLayout.cshtml",
+              "RelativeToolTip": "ThuBaiKiemTraGk\\Views\\Shared\\_ThuLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T03:07:15.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

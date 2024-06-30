@@ -1,0 +1,2 @@
+D:\Thuthu\ThuBaiKiemTraGk\ThuBaiKiemTraGk\obj\Debug\ThuBaiKiemTraGk.csproj.AssemblyReference.cache
+D:\Thuthu\ThuBaiKiemTraGk\ThuBaiKiemTraGk\obj\Debug\ThuBaiKiemTraGk.csproj.CoreCompileInputs.cache
